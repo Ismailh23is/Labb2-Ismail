@@ -1,0 +1,28 @@
+C:\Users\Min\source\repos\Labb 2\Labb 2\obj\Debug\net7.0\Labb 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Min\source\repos\Labb 2\Labb 2\obj\Debug\net7.0\Labb 2.AssemblyInfoInputs.cache
+C:\Users\Min\source\repos\Labb 2\Labb 2\obj\Debug\net7.0\Labb 2.AssemblyInfo.cs
+C:\Users\Min\source\repos\Labb 2\Labb 2\obj\Debug\net7.0\Labb 2.csproj.CoreCompileInputs.cache
+C:\Users\Min\source\repos\Labb 2\Labb 2\bin\Debug\net7.0\Labb 2.exe
+C:\Users\Min\source\repos\Labb 2\Labb 2\bin\Debug\net7.0\Labb 2.deps.json
+C:\Users\Min\source\repos\Labb 2\Labb 2\bin\Debug\net7.0\Labb 2.runtimeconfig.json
+C:\Users\Min\source\repos\Labb 2\Labb 2\bin\Debug\net7.0\Labb 2.dll
+C:\Users\Min\source\repos\Labb 2\Labb 2\bin\Debug\net7.0\Labb 2.pdb
+C:\Users\Min\source\repos\Labb 2\Labb 2\obj\Debug\net7.0\Labb 2.dll
+C:\Users\Min\source\repos\Labb 2\Labb 2\obj\Debug\net7.0\refint\Labb 2.dll
+C:\Users\Min\source\repos\Labb 2\Labb 2\obj\Debug\net7.0\Labb 2.pdb
+C:\Users\Min\source\repos\Labb 2\Labb 2\obj\Debug\net7.0\Labb 2.genruntimeconfig.cache
+C:\Users\Min\source\repos\Labb 2\Labb 2\obj\Debug\net7.0\ref\Labb 2.dll
+C:\Users\Min\OneDrive - Högskolan Dalarna\Obp Labbar\Labb 2\Labb 2\bin\Debug\net7.0\Labb 2.exe
+C:\Users\Min\OneDrive - Högskolan Dalarna\Obp Labbar\Labb 2\Labb 2\bin\Debug\net7.0\Labb 2.deps.json
+C:\Users\Min\OneDrive - Högskolan Dalarna\Obp Labbar\Labb 2\Labb 2\bin\Debug\net7.0\Labb 2.runtimeconfig.json
+C:\Users\Min\OneDrive - Högskolan Dalarna\Obp Labbar\Labb 2\Labb 2\bin\Debug\net7.0\Labb 2.dll
+C:\Users\Min\OneDrive - Högskolan Dalarna\Obp Labbar\Labb 2\Labb 2\bin\Debug\net7.0\Labb 2.pdb
+C:\Users\Min\OneDrive - Högskolan Dalarna\Obp Labbar\Labb 2\Labb 2\obj\Debug\net7.0\Labb 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Min\OneDrive - Högskolan Dalarna\Obp Labbar\Labb 2\Labb 2\obj\Debug\net7.0\Labb 2.AssemblyInfoInputs.cache
+C:\Users\Min\OneDrive - Högskolan Dalarna\Obp Labbar\Labb 2\Labb 2\obj\Debug\net7.0\Labb 2.AssemblyInfo.cs
+C:\Users\Min\OneDrive - Högskolan Dalarna\Obp Labbar\Labb 2\Labb 2\obj\Debug\net7.0\Labb 2.csproj.CoreCompileInputs.cache
+C:\Users\Min\OneDrive - Högskolan Dalarna\Obp Labbar\Labb 2\Labb 2\obj\Debug\net7.0\Labb 2.dll
+C:\Users\Min\OneDrive - Högskolan Dalarna\Obp Labbar\Labb 2\Labb 2\obj\Debug\net7.0\refint\Labb 2.dll
+C:\Users\Min\OneDrive - Högskolan Dalarna\Obp Labbar\Labb 2\Labb 2\obj\Debug\net7.0\Labb 2.pdb
+C:\Users\Min\OneDrive - Högskolan Dalarna\Obp Labbar\Labb 2\Labb 2\obj\Debug\net7.0\Labb 2.genruntimeconfig.cache
+C:\Users\Min\OneDrive - Högskolan Dalarna\Obp Labbar\Labb 2\Labb 2\obj\Debug\net7.0\ref\Labb 2.dll
